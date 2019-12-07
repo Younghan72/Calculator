@@ -1,0 +1,25 @@
+        table{
+            width: 300px;
+            height: 400px;
+            text-align: center;
+            color: #fff;
+            font-weight: bold;
+            border-collapse: collapse;
+            border: black solid 0.5px;
+        }
+        .number{
+            background-color: #7a7a7a;
+        }
+        .calculation{
+            background-color: #FF9436;
+        }
+        .AC{
+            background-color: #989898;
+        }
+        .sum{
+            
+            background-color: #626262;
+            font-size: 35px;
+            padding: 0;
+            height: 70px;
+        }
